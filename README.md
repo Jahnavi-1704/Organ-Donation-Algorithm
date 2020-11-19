@@ -1,4 +1,4 @@
-# Organ-Donation-Project
+# Organ-Donation-Algorithm
 Description-
 
 - This project collects the information from donors and patients about their personal details such name, age, gender, bloodgroup, medical history, etc and information about a specific organ. 
